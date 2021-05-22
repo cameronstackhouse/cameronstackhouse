@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cameronstackhouse
-- 👀 I’m interested in Artificial Intelligence, Machine learning and app development.
-- 🌱 I’m currently in my first year of University studying Computer Science so I am learning the basics and fundamentals of all aspects of Computer Science.
-- 💞️ I’m looking to collaborate on anything at all!!
+- 👀 I’m interested in Artificial Intelligence, Machine learning and Data Science.
 - 📫 How to reach me: Twitter: @cam_stackhouse
 
 <!---
